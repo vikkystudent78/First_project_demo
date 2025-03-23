@@ -1,0 +1,26 @@
+Site Informatiom
+
+Git and Git hub
+Email id : vikkystudent78@gmail.com
+Pass: Vik@8050A
+Repository: First_project_demo
+url: https://github.com/vikkystudent78/First_project_demo.git
+git config –list
+git config - - global user.name “vikkystudent78”
+git config - - global user.email “vikkystudent78@gmail.com”
+git add file.txt
+git commit -m “my first commit” file.txt
+git status
+git clone https://github.com/vikkystudent78/First_project_demo.git
+git remote -v
+git branch
+git branch -M main
+git push -u origin main
+git push origin main
+
+###for Branches###
+git branch (to check branch)
+git branch -M main (to rename branch)
+git checkout <-branch name-> (to navigate)
+git checkout -b <-new branch name -> (to create new branch)
+git branch -d <-new branch name -> (to delete branch)
