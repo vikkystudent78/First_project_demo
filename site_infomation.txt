@@ -1,8 +1,7 @@
 Site Informatiom
 
 Git and Git hub
-Email id : vikkystudent78@gmail.com
-Pass: Vik@8050A
+
 Repository: First_project_demo
 url: https://github.com/vikkystudent78/First_project_demo.git
 git config –list
